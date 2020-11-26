@@ -1,0 +1,5 @@
+FROM ubuntu:bionic
+
+MAINTAINER todor.ait@gmail.com
+
+RUN apt-get update -y && apt-get install openssh-client sshpass -y
