@@ -1,3 +1,3 @@
 # ubuntu-for-gitlab
 
-Ubuntu bionic with added sshpass
+Ubuntu Bionic with added sshpass. I use this in Gitlab Runners.
